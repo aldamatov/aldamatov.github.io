@@ -26,6 +26,7 @@ export const Projects = () => {
 								accusantium accusamus, libero corporis sed veniam!
 							</p></Col>
                 </Row>
+
 				<Row className="mt-5"> 
                     <Col md ="6" className="order-2"><img src={TicTacToe} width="100%" alt="not to do task list"/></Col>
                     <Col md="6" className="order-1"><div class="fs-2 fw-bold ">
